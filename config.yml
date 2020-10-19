@@ -29,3 +29,4 @@ policies:
       epochs: 100
     - name: RulePolicy
     - name: FormPolicy
+    - name: TwoStageFallbackPolicy
